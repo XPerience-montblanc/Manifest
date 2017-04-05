@@ -253,7 +253,7 @@
   <project path="external/mesa3d" name="platform/external/mesa3d" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/messageformat" name="platform/external/messageformat" groups="pdk" remote="aosp" />
   <project path="external/minijail" name="platform/external/minijail" groups="pdk" remote="aosp" />
-  <project path="external/mksh" name="LineageOS/android_external_mksh" groups="pdk" />
+  <project path="external/mksh" name="LineageOS/android_external_mksh" groups="pdk" remote="cm" />
   <project path="external/mmc-utils" name="platform/external/mmc-utils" groups="pdk" remote="aosp" />
   <project path="external/mockftpserver" name="platform/external/mockftpserver" groups="pdk" remote="aosp" />
   <project path="external/mockito" name="platform/external/mockito" groups="pdk" remote="aosp" />

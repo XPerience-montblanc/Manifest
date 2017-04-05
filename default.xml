@@ -313,7 +313,7 @@
   <project path="external/tcpdump" name="platform/external/tcpdump" groups="pdk" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk" remote="aosp" />
   <project path="external/tinyalsa" name="XPerience-AOSP-Lollipop/android_external_tinyalsa" groups="pdk" remote="xpe" />
-  <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" />
+  <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" remote="cm" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
   <project path="external/tinyxml2" name="LineageOS/android_external_tinyxml2" groups="pdk" remote="cm" />
   <project path="external/tlsdate" name="platform/external/tlsdate" groups="pdk" remote="aosp" />

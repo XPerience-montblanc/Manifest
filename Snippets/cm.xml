@@ -29,7 +29,7 @@
     <project path="external/yaffs2" name="LineageOS/android_external_yaffs2" remote="cm" />
     <project path="external/zip" name="LineageOS/android_external_zip" remote="cm" />
     <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" remote="cm" />
-    <project path="hardware/invensense" name="LineageOS/android_hardware_invensense" groups="invensense" remote="cm" />
+    <project path="hardware/invensense" name="LineageOS/android_hardware_invensense" groups="invensense,pdk" remote="cm" />
     <project path="frameworks/opt/hardware" name="LineageOS/android_frameworks_opt_hardware" remote="cm" />
     <project path="hardware/ti/omap4" name="LineageOS/android_hardware_ti_omap4" remote="cm" />
     <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" remote="cm" />
@@ -48,7 +48,7 @@
     <project path="packages/apps/KeyChain" name="fourkbomb/android_packages_apps_KeyChain" groups="pdk-fs" remote="github2" />
     <project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" remote="cm" />
     <project path="packages/apps/ManagedProvisioning" name="fourkbomb/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="github2" />
-    <project path="packages/apps/PackageInstaller" name="fourkbomb/android_packages_apps_PackageInstaller" groups="pdk-fs" remote="github2" />
+    <project path="packages/apps/PackageInstaller" name="fourkbomb/android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="github2" />
     <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" remote="cm" />
     <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" remote="cm" />
     <project path="packages/apps/Tag" name="LineageOS/android_packages_apps_Tag" groups="pdk-fs" remote="cm" />

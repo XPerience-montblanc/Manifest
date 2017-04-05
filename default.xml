@@ -62,16 +62,16 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" />
-  <project path="art" name="LineageOS/android_art" groups="pdk" />
+  <project path="art" name="LineageOS/android_art" groups="pdk" remote="cm" />
   <project path="bionic" name="LineageOS/android_bionic" groups="pdk" remote="cm" />
   <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" groups="pdk" remote="cm" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="dalvik" name="LineageOS/android_dalvik" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
   <project path="development" name="LineageOS/android_development" groups="pdk-cw-fs,pdk-fs" remote="cm" />
-  <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk" remote="aosp" remote="cm" />
-  <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" remote="aosp" remote="cm" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" />
+  <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk" remote="aosp" />
+  <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" remote="aosp" />
+  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="aosp" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" remote="aosp" />
   <project path="device/generic/goldfish-opengl" name="device/generic/goldfish-opengl" groups="pdk" remote="aosp" />

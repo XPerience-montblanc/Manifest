@@ -43,7 +43,7 @@
   <project path="system/core" name="XPerience-AOSP-Lollipop/android_system_core" groups="pdk" remote="xpe" />
   <project path="system/extras" name="fourkbomb/android_system_extras" groups="pdk" remote="github2" />
   <project path="system/sepolicy" name="XPerience-AOSP-Lollipop/android_system_sepolicy" groups="pdk" />
-  <project path="system/vold" name="fourkbomb/android_system_vold" groups="pdk" remote="gitub2" />
+  <project path="system/vold" name="fourkbomb/android_system_vold" groups="pdk" remote="github2" />
 
   <!-- Vendor -->
   <project path="vendor/XPe" name="XPerience-AOSP-Lollipop/android_vendor_XPerience" remote="xpe" groups="xpe" >

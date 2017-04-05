@@ -34,10 +34,6 @@
 
   <remote  name="github"
            fetch=".." />
-
-  <remote  name="github2"
-           fetch=".." 
-	   revision="refs/heads/cm-14.1-aospmerge" />
            
 <!--For Propietary files-->
   <remote  name="Unicorn"
@@ -51,6 +47,7 @@
            remote="xpe"
            sync-c="true"
            sync-j="4" />
+
 
 
   <!-- AOSP Projects -->
@@ -369,7 +366,7 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="hardware/akm" name="platform/hardware/akm" groups="pdk" remote="aosp" />
   <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" remote="cm" />
-  <project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
+  <project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" remote="cm" />
   <project path="hardware/google/apf" name="platform/hardware/google/apf" groups="pdk" remote="aosp" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel,pdk" remote="aosp" />
   <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel,pdk" remote="aosp" />

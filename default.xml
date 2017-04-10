@@ -62,7 +62,7 @@
   <project path="art" name="LineageOS/android_art" groups="pdk" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
   <project path="bionic" name="LineageOS/android_bionic" groups="pdk" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="dalvik" name="LineageOS/android_dalvik" groups="pdk-cw-fs,pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
+  <project path="dalvik" name="LineageOS/android_dalvik" groups="pdk-cw-fs,pdk-fs" remote="cm" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
   <project path="development" name="LineageOS/android_development" groups="pdk-cw-fs,pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk" remote="aosp" />

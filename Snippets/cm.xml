@@ -36,7 +36,7 @@
     <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" remote="cm" />
     <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" remote="cm" />
     <project path="packages/apps/Browser" name="LineageOS/android_packages_apps_Browser" remote="cm" />
-    <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
+    <project path="packages/apps/CertInstaller" name="fourkbomb/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="github2" />
     <project path="packages/apps/CMBugReport" name="LineageOS/android_packages_apps_CMBugreport" remote="cm" />
     <project path="packages/apps/CustomTiles" name="LineageOS/android_packages_apps_CustomTiles" remote="cm" />
     <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" remote="cm" />

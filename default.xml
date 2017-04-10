@@ -379,14 +379,14 @@
   <project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" groups="intel,pdk" remote="aosp" />
   <project path="hardware/intel/common/libva" name="LineageOS/android_hardware_intel_common_libva" groups="intel,pdk" remote="cm" />
   <project path="hardware/intel/common/libwsbm" name="LineageOS/android_hardware_intel_common_libwsbm" groups="intel,pdk" remote="cm" />
-  <project path="hardware/intel/common/omx-components" name="LineageOS/android_hardware_intel_common_omx-components" groups="intel" remote="github2"/>
+  <project path="hardware/intel/common/omx-components" name="LineageOS/android_hardware_intel_common_omx-components" groups="intel" remote="cm" revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="hardware/intel/common/utils" name="LineageOS/android_hardware_intel_common_utils" groups="intel,pdk" remote="cm" />
   <project path="hardware/intel/common/wrs_omxil_core" name="platform/hardware/intel/common/wrs_omxil_core" groups="intel,pdk" remote="aosp" />
   <project path="hardware/intel/img/hwcomposer" name="LineageOS/android_hardware_intel_img_hwcomposer" groups="intel" remote="cm" revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="hardware/intel/img/psb_headers" name="LineageOS/android_hardware_intel_img_psb_headers" groups="intel,pdk" remote="cm" />
   <project path="hardware/intel/img/psb_video" name="LineageOS/android_hardware_intel_img_psb_video" groups="intel" remote="cm" revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" groups="intel_sensors,pdk" remote="aosp" />
-  <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" remote="github2"/>
+  <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" revision="staging/cm-14.1_android-7.1.2_r2" />
  <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" remote="cm" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt,pdk" remote="aosp" />
   <project path="hardware/qcom/audio/default" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="cm" revision="staging/cm-14.1_android-7.1.2_r2" />

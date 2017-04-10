@@ -379,7 +379,7 @@
   <project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" groups="intel,pdk" remote="aosp" />
   <project path="hardware/intel/common/libva" name="LineageOS/android_hardware_intel_common_libva" groups="intel,pdk" remote="cm" />
   <project path="hardware/intel/common/libwsbm" name="LineageOS/android_hardware_intel_common_libwsbm" groups="intel,pdk" remote="cm" />
-  <project path="hardware/intel/common/omx-components" name="fourkbomb/android_hardware_intel_common_omx-components" groups="intel" remote="cm" remote="github2"/>
+  <project path="hardware/intel/common/omx-components" name="fourkbomb/android_hardware_intel_common_omx-components" groups="intel" remote="github2"/>
   <project path="hardware/intel/common/utils" name="LineageOS/android_hardware_intel_common_utils" groups="intel,pdk" remote="cm" />
   <project path="hardware/intel/common/wrs_omxil_core" name="platform/hardware/intel/common/wrs_omxil_core" groups="intel,pdk" remote="aosp" />
   <project path="hardware/intel/img/hwcomposer" name="LineageOS/android_hardware_intel_img_hwcomposer" groups="intel" remote="cm" revision="cm-14.1_android-7.1.2_r2" />

@@ -47,7 +47,7 @@
     <project path="packages/apps/HTMLViewer" name="LineageOS/android_packages_apps_HTMLViewer" groups="pdk-fs" remote="cm" />
     <project path="packages/apps/KeyChain" name="LineageOS/android_packages_apps_KeyChain" groups="pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
     <project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" remote="cm" />
-    <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
+    <project path="packages/apps/ManagedProvisioning" name="fourkbomb/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="github2" />
     <project path="packages/apps/PackageInstaller" name="LineageOS/android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="cm" />
     <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" remote="cm" />
     <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" remote="cm" />

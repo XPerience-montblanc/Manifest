@@ -422,7 +422,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/RetailDemo" name="platform/packages/apps/RetailDemo" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="LineageOS/android_packages_apps_SafetyRegulatoryInfo" remote="cm" />
-  <project path="packages/apps/Stk" name="LineageOS/android_packages_apps_Stk" groups="apps_stk,pdk-fs" remote="cm" revision="cm-14.1_android-7.1.2_r2" />
+  <project path="packages/apps/Stk" name="fourkbomb/android_packages_apps_Stk" groups="apps_stk,pdk-fs" remote="github2" />
   <project path="packages/apps/StorageManager" name="LineageOS/android_packages_apps_StorageManager" remote="cm" />
   <project path="packages/apps/Terminal" name="LineageOS/android_packages_apps_Terminal" groups="pdk-fs" remote="cm" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" remote="aosp" />
